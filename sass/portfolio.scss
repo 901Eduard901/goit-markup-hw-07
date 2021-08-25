@@ -1,0 +1,21 @@
+// Base
+@import 'base/normalize';
+
+// Utils
+@import 'utils/variables/colors';
+@import 'utils/variables/fonts';
+@import 'utils/vs-hidden';
+@import 'utils/placeholders';
+@import 'utils/mixins';
+
+// Components
+@import 'components/logo';
+@import 'components/titles';
+@import 'components/buttons';
+
+// Layout
+@import 'layout/header';
+@import 'layout/footer';
+
+// Pages
+@import 'pages/gallery-card';

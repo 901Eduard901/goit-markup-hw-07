@@ -1,0 +1,27 @@
+// Feature и description Особенности компании 
+
+.feature {
+    display: flex;   
+  }   
+
+.feature__description {
+    line-height: 1.71;    
+  }  
+
+.feature__item:not(:last-child) {
+    margin-right: 30px;    
+  }
+
+.feature__background {
+    background-color: #F5F4FA; 
+    border-radius: 4px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    display: flex;
+    justify-content: center;
+  }
+
+.feature__icon {
+    width: 70px;
+    height: 70px;
+  }

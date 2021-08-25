@@ -1,0 +1,61 @@
+.hero__title {
+    margin-bottom: 30px;
+    color: $primary-white-color;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.36;
+    letter-spacing: 0.06em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 694px;
+    text-transform: uppercase;
+  }
+
+.section__title {
+    margin-bottom: 50px;
+    color: $title-text-color;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.16;
+    text-align: center;
+  }    
+
+.feature__title {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    color: $title-text-color;
+    font-weight: 700;
+  }  
+
+.team__title {
+    margin-bottom: 10px;
+    color: $title-text-color;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.18; 
+  }  
+
+.second-block-footer__title,
+.third-block-footer__title {
+    color: $primary-white-color;
+    font-weight: 700;
+    margin-bottom: 20px;
+  } 
+
+.form__title {
+    margin-bottom: 12px;
+    color: $title-text-color;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.15;
+    text-align: center;
+  }  
+
+.project__title {
+    color: $title-text-color;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 2.0;
+    letter-spacing: 0.06em;
+    margin-bottom: 4px; 
+   }
